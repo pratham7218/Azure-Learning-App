@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "Azure-Learning-App20250404131549",
+      "defaultValue": "Azure-Learning-App",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
