@@ -7,6 +7,7 @@ namespace Azure_Learning_App.Pages
     {
         public void OnGet()
         {
+            ViewData["slot"] = "Testing deployment slot";
         }
     }
 }
