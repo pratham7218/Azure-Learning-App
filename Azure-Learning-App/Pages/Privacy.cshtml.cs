@@ -14,6 +14,8 @@ namespace Azure_Learning_App.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing app insights");
+
         }
     }
 

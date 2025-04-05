@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Azure_Learning_App</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/726d852c-f7d4-4c52-b845-ab28a97e38e4/resourceGroups/Azure-group-rg/providers/microsoft.insights/components/Azure-Learning-App</ApplicationInsightsResourceId>
+    <UserSecretsId>74499c36-63f3-4c60-9f0a-fd48d1ad0da0</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 
 </Project>

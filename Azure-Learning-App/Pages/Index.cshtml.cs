@@ -14,7 +14,6 @@ namespace Azure_Learning_App.Pages
 
         public void OnGet()
         {
-
         }
     }
 }
